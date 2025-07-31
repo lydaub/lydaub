@@ -1,5 +1,6 @@
-## Hi, I’m Lydia Aubourg!
-I’m an Information Technology and Informatics student passionate about machine learning, data analytics, and digital communication. I enjoy building projects using Python, Jupyter Notebooks, and scikit-learn to solve real-world problems. I’m always learning new tech and sharing my work to grow and collaborate with the developer community.
+# Hi, I’m Lydia!
+### Junior at Rutgers University, studying Information Technology and Informatics
+I’m passionate about using technology to solve real-world problems and improve communication. With experience in IT, digital media, and as a Break Through Tech Fellow, I’m always learning and taking initiative to grow my skills. I enjoy working on practical projects that make a difference and love connecting with others in tech. Feel free to reach out!
 <!--
 **lydaub/lydaub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
