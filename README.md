@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I’m Lydia Aubourg!
+I’m an Information Technology and Informatics student passionate about machine learning, data analytics, and digital communication. I enjoy building projects using Python, Jupyter Notebooks, and scikit-learn to solve real-world problems. I’m always learning new tech and sharing my work to grow and collaborate with the developer community.
 <!--
 **lydaub/lydaub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
