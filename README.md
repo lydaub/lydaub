@@ -27,3 +27,13 @@ Results: Explained 67.1% of revenue variance (vs 1.1% in standard model), reduce
 
    Built a Logistic Regression model using TF-IDF features to classify book reviews as positive or negative, supporting businesses in assessing customer sentiment for better marketing strategies.
   (https://github.com/lydaub/lydaub/blob/main/DefineAndSolveMLProblem.ipynb)
+
+   Tech Stack: Python, Jupyter Notebook, scikit-learn, pandas, numpy, matpoltlib, seaborn   
+   Learnings: Data visualization, Model fitting and training
+
+3. GPA & Physical Activity Analysis
+
+   This project explores the relationship between physical activity and GPA ranges. Using Fitbit-style activity data and a categorized GPA variable, the dashboard visualizes how daily habits may correlate with academic performance. (https://public.tableau.com/views/infofinal_17647845406430/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+   Tools: Tableau     
+   Learnings: Data visualization
