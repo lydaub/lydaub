@@ -26,7 +26,7 @@ Results: Explained 67.1% of revenue variance (vs 1.1% in standard model), reduce
 1. Book Review Analysis
 
    Built a Logistic Regression model using TF-IDF features to classify book reviews as positive or negative, supporting businesses in assessing customer sentiment for better marketing strategies.
-  (https://github.com/lydaub/lydaub/blob/main/DefineAndSolveMLProblem.ipynb)
+(https://github.com/lydaub/book-review-sentiment-classifier)
 
    Tech Stack: Python, Jupyter Notebook, scikit-learn, pandas, numpy, matpoltlib, seaborn   
    Learnings: Data visualization, Model fitting and training
