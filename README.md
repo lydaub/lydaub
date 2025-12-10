@@ -31,7 +31,14 @@ Results: Explained 67.1% of revenue variance (vs 1.1% in standard model), reduce
    Tech Stack: Python, Jupyter Notebook, scikit-learn, pandas, numpy, matpoltlib, seaborn   
    Learnings: Data visualization, Model fitting and training
 
-3. GPA & Physical Activity Analysis
+2. Airbnb Logistic Regression Classifier
+
+    This project explores Airbnb host data to understand what factors influence a host becoming a superhost. I prepared the dataset, created labeled examples, split the data for training/testing, and analyzed key   insights. (https://github.com/lydaub/airbnb-logistic-regression-classifier)
+
+   Tech Stack: Python, Pandas, scikit-learn, numpy, matplotlib, seaborn   
+   Learnings: Data Preperation, model selection, feature impact
+
+4. GPA & Physical Activity Analysis
 
    This project explores the relationship between physical activity and GPA ranges. Using Fitbit-style activity data and a categorized GPA variable, the dashboard visualizes how daily habits may correlate with academic performance. (https://github.com/lydaub/tableau-activity-vs-gpa)
 
